@@ -59,7 +59,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.myViewHolder> 
 
         }
     }
-    
+
     //Constructor
 
     public ListAdapter(ArrayList<String> data){

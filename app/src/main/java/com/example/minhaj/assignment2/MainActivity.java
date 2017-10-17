@@ -32,12 +32,6 @@ public class MainActivity extends AppCompatActivity {
         myRecylerView.setAdapter(new ListAdapter(contacts));
 
 
-
-
-
-
-
-
     }
 
 }
